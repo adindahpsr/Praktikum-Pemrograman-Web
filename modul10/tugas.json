@@ -1,0 +1,55 @@
+{
+    "mahasiswa": {
+      "namaLengkap": "Adinda Aulia Hapsari",
+      "alamat": "Sumberejo RT 01/RW 10, Waru, Kebakkramat, Karanganyar",
+      "prodi": "Teknik Informatika",
+      "usia": 20,
+      "lulus": false,
+      "mataKuliah": [
+        {
+          "nama": "Jaringan Komputer",
+          "jumlah_sks": 3,
+          "jadwal_kuliah": {
+            "hari": "Senin",
+            "jam_mulai": "06:30",
+            "jam_selesai": "09:00"
+          },
+          "dosen_pengampu": "Yudi Wahyu Wibowo, ST, M.Eng",
+          "bab_materi": ["Router", "Transport Layer", "Media Transmisi dan WLAN"]
+        },
+        {
+          "nama": "Rekayasa Perangkat Lunak",
+          "jumlah_sks": 3,
+          "jadwal_kuliah": {
+            "hari": "Kamis",
+            "jam_mulai": "12:30",
+            "jam_selesai": "15:00"
+          },
+          "dosen_pengampu": "Arini Nur Rohmah, S.Kom., M.Sc.",
+          "bab_materi": ["Activity Diagram", "Use Case Diagram", "Software Design Document"]
+        },
+        {
+            "nama": "Praktikum Pemrograman Web",
+            "jumlah_sks": 2,
+            "jadwal_kuliah": {
+              "hari": "Selasa",
+              "jam_mulai": "16:20",
+              "jam_selesai": "18:00"
+            },
+            "dosen_pengampu": "Widi Widayat, S.Kom., M.Eng.",
+            "bab_materi": ["HTML", "PHP", "SQL"]
+        },
+        {
+            "nama": "Organisasi dan Arsitektur Komputer",
+            "jumlah_sks": 3,
+            "jadwal_kuliah": {
+              "hari": "Jumat",
+              "jam_mulai": "12:30",
+              "jam_selesai": "14:10"
+            },
+            "dosen_pengampu": "Helmi Imaduddin, S.Kom., M.Eng.",
+            "bab_materi": ["Fungsi dan Cara Kerja IO", "Konsep Dasar Sistem Komputer", "Evolusi dan Performa Kerja Komputer"]
+        }
+    ]   
+    }
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gambar Berjalan</title>
+<style>
+    #container {
+        width: 100%;
+        overflow: hidden;
+    }
+    #gambar {
+        width: 100px;
+        height: 50px;
+        animation: berjalan 30s linear infinite;
+    }
+    @keyframes berjalan {
+        100% {
+            transform: translateX(100%);
+        }
+        100% {
+            transform: translateX(100%);
+        }
+    }
+</style>
+</head>
+<body>
+<marquee>
+<div id="container">
+    <a href="https://www.yahoo.com" target="_self">
+        <img id="gambar" src="yahoo.jpg" alt="Gambar Berjalan">
+    </a>
+</div>
+</marquee>
+</body>
+</html

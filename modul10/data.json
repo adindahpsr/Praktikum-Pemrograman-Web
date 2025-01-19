@@ -1,0 +1,16 @@
+{
+    "namaLengkap": "Muhammad Fadil",
+    "alamat": "Jln Kemerdekaan No 18 Surakarta",
+    "prodi": "Informatika",
+    "usia": 20,
+    "lulus": false,
+    "mataKuliah": [
+        "Pemrogramman Website",
+        "Algoritma Pemrogramman",
+        "Kapita Selekta"
+    ],
+    "nilai": {
+        "Aljabar Linjar": "AB",
+        "Logika Matematika": "A"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "nama": "Budi Santoso",
+    "umur": 25,
+    "mahasiswa": true,
+    "mataKuliah": ["Matematika", "Fisika", "Kimia"],
+    "alamat": {
+      "kota": "Jakarta",
+      "kodePos": "10110"
+    },
+    "namaTengah": null,
+    "hobi": ["membaca", "berenang", "bersepeda"],
+    "lulusan": false
+  }
+  
